@@ -13,3 +13,5 @@ This project will also review the asthetics of the website, ensuring that font t
 Comments will be included throughout the files to give an audit trail of the changes that have been made. 
 
 The scope and functionality of the website will not be changed by a ny amendments made to the html or css files.
+
+The amended reviewed website functions and this is a screenshot of the landing page: [Website Screenshot] (./assets/images/Horision SEO.png)
