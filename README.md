@@ -6,6 +6,8 @@ This will include reviewing and where appropriate changing any coding that does 
 
 The codes in both the html and css files will be reviewed and ammended to maximise Search Engine Optimisation (SEO) through the use of semantic elements which will in turn improve accessibility for all users. 
 
+All hyperlinks will be checked and any broken links will be repaired.
+
 This project will also review the asthetics of the website, ensuring that font types and sizes are appropriate and support accessabiliy needs and that all images have appropriate captions and descriptions to support accessibility functions. 
 
 Comments will be included throughout the files to give an audit trail of the changes that have been made. 
